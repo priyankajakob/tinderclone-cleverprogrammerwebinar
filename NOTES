@@ -1,0 +1,2 @@
+"proxy": "https://cors-anywhere.herokuapp.com/"
+Add above line in package.json
